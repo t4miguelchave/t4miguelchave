@@ -2,7 +2,7 @@
 
 # Hi, im Miguel. 
  
- <img src="https://i.postimg.cc/vTP9j9jg/Python-programming-logo-on-transparent-background-PNG.png" height = 100px;/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height = 100px;/> 
+ <img src="https://i.postimg.cc/MKvjHnN5/Download-Python-icon-transparent-background.jpg" height = 100px;/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height = 100px;/> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height = 100px;/>
  
 <a href = "mailto:t4miguelchave@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
